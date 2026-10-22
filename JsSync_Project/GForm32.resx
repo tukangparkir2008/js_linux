@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="textBox1.Text" xml:space="preserve"><value>Versi 7.7 - 27 Juli 2026
+- Perbaikan sinkronisasi data departemen saat pertama kali melakukan sinkronisasi data
+
+Versi 7.2 - 17 Juli 2026
+- Perbaikan laporan tunggakan siswa dan laporan iuran wajib untuk kasus jumlah pembayarannya sama dengan jumlah diskon
+
+Versi 7.1 - 16 Juni 2026
+- Perbaikan sinkronisasi data untuk pengguna lama
+
+Versi 7.0 - 15 Juni 2026
+- Penyempurnaan: Integrasi dengan JIBAS Payment Gateway
+  Aplikasi JIBAS SJS - Sinkronisasi Jendela Sekolah menjadi perantara antara JIBAS Keuangan dan JIBAS Payment Gateway
+  Tagihan yang dibuat di JIBAS Keuangan akan dikirimkan kepada orangtua/siswa melalui JIBAS SJS.
+  Orangtua/siswa dapat melihat tagihan tersebut di JIBAS Jendela Sekolah
+  Begitu pula, konsolidasi pembayaran dari JIBAS Payment Gateway, akan tercatat sebagai iuran pembayaran di JIBAS Keuangan melalui JIBAS SJS
+
+Versi 6.6 - 16 Juli 2025
+- Penyempurnaan: informasi kesalahan saat jaringan kurang stabil tidak dimunculkan melainkan disimpan ke dalam file log
+
+Versi 6.5 - 21 Mei 2025
+- Penyempurnaan: kode sekolah sekarang bisa menggunakan 6 digit (sebelumnya hanya 5 digit). Ini untuk memperbanyak jumlah sekolah di kemudian hari
+
+Versi 6.2 - 28 April 2025
+- Penyempurnaan: pengambilan data pelajaran untuk keperluan input presensi pelajaran, sekarang tidak lagi tergantung pada aturan perhitungan nilai rapor.   Melainkan cukup dari daftar pelajaran yang diampu guru.
+
+Versi 6.0 - 14 Februari 2025
+- Nama aplikasi sekarang menjadi JIBAS SJS (fungsinya masih sama seperti Sinkronisasi Jendela Sekolah) 
+- Penyempurnaan: pelaporan presensi dari JIBAS Presensi Wajah
+- Perbaikan: pengiriman notifikasi ke Jendela Sekolah Android (URGENT)
+- Perbaikan: fungsi swipe di aplikasi Android
+
+Versi 5.5 - 09 Januari 2025
+- Perbaikan: pengiriman notifikasi ke Jendela Sekolah Android
+
+Versi 5.0 - 07 Desember 2024
+- Perbaikan: pengiriman notifikasi ke Jendela Sekolah Android
+- Perbaikan: pencarian daftar anggota untuk pegawai
+- Perbaikan: pengiriman notifikasi kepada pegawai
+- Penyempurnaan: update pustaka-pustaka yang digunakan aplikasi
+
+Versi 4.1 - 16 Juli 2024
+- Perbaikan: memperbaiki tambah pengguna JS EMA 
+
+Versi 4.0 - 14 Juni 2024
+- Perbaikan: memperbarui versi pustaka yang digunakan aplikasi
+
+Versi 3.6 - 05 Juni 2024
+- Perbaikan: memperbaiki daftar siswa yang aktif saat input nilai di JS EMA
+
+Versi 3.5 - 24 Februari 2024
+- Perbaikan: informasi keuangan dengan saldo lebih dari 2 M
+- Perbaikan: scroll di JS EMA Android
+
+Versi 3.0 - 25 Januari 2024
+- Rilis Jendela Sekolah EMA: Jendela Informasi bagi Manajemen Sekolah
+
+Versi 2.1 - 03 Oktober 2023
+- Perbaikan: memperbaiki informasi lisensi di menu Konfigurasi &gt; Lisensi
+  Mulai versi 1.5 JIBAS Jendela Sekolah dapat digunakan secara gratis untuk versi komunitas, tanpa batasan waktu lisensinya
+
+Versi 2.0 - 20 September 2023
+- Penyempurnaan: layanan baru JIBAS Payment Gateway:  
+  Integrasi JIBAS Jendela Sekolah dengan JIBAS Keuangan untuk melakukan pembayaran tagihan-tagihan sekolah secara online.  Pembayaran dapat dilakukan secara online dan transaksinya tercatat di JIBAS Keuangan. 
+- Penyempurnaan: memperbaiki performa dan respon aplikasi server Jendela Sekolah
+- Penyempurnaan: integrasi JIBAS Jendela Sekolah dan Payment Gateway dengan SMS Gateway.
+  Notifikasi sekarang dikirim juga ke SMS Gateway, supaya pengguna yg menggunakan WA Gateway dapat memanfaatkan data notifikasi. 
+- Penyempurnaan: menyempurkankan tampilan dan fungsi aplikasi Android Jendela Sekolah
+- Perbaikan dan penyempurnaan lainnya
+
+Versi 1.1-rev1 - 24 Nopember 2022
+- Memperbaiki validasi saat pengisian berita baru
+
+Versi 1.1 - 22 Nopember 2022
+- Rilis JIBAS Jendela Sekolah Public Review
+
+Versi 1.0-PREVIEW - 13 Oktober 2022
+- Rilis pertama: JIBAS Jendela Sekolah Android versi PREVIEW</value></data>
+  </root>

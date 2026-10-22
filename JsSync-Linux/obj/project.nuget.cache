@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "f0iKE4hy0aQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmad\\Documents\\JIBAS SJS\\JsSync-Linux\\JsSyncLinux.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\10.0.13\\microsoft.aspnetcore.jsonpatch.10.0.13.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\10.0.13\\microsoft.aspnetcore.mvc.newtonsoftjson.10.0.13.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\ahmad\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

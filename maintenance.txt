@@ -1,0 +1,66 @@
+2026-07-28 16:15:33 [NetManager.StartService]: START SERVICE
+
+-------- #=zVBOzlqxAvLw2qIee0u4oGZgtdQZHMV5hudTtkrBPsPSiubguq6DRwhTh2tgLFy98oL870kdCQq$V.#=zfX5ZHq2ohArQ 2026-07-28 16:25:57 at Database Id tidak sama dengan lisensi (BH6J5) --------
+Database Id tidak sama dengan lisensi (BH6J5)
+   at #=znXXTgNan0WTb_yeP1Qvtpb0zxUxUT$930qCcA38FTj94bd4wISDYaqg=.#=zhv7tgEE=(String #=zofLbRUQ=)
+   at #=zVBOzlqxAvLw2qIee0u4oGZgtdQZHMV5hudTtkrBPsPSiubguq6DRwhTh2tgLFy98oL870kdCQq$V.#=zfX5ZHq2ohArQ(Object #=zPpjqqUE=, EventArgs #=zWxqsk3s=)
+
+-------- #=zVBOzlqxAvLw2qIee0u4oGZgtdQZHMV5hudTtkrBPsPSiubguq6DRwhTh2tgLFy98oL870kdCQq$V.#=zfX5ZHq2ohArQ 2026-07-28 16:27:20 at Database Id tidak sama dengan lisensi (BH6J5) --------
+Database Id tidak sama dengan lisensi (BH6J5)
+   at #=znXXTgNan0WTb_yeP1Qvtpb0zxUxUT$930qCcA38FTj94bd4wISDYaqg=.#=zhv7tgEE=(String #=zofLbRUQ=)
+   at #=zVBOzlqxAvLw2qIee0u4oGZgtdQZHMV5hudTtkrBPsPSiubguq6DRwhTh2tgLFy98oL870kdCQq$V.#=zfX5ZHq2ohArQ(Object #=zPpjqqUE=, EventArgs #=zWxqsk3s=)
+
+-------- #=zVBOzlqxAvLw2qIee0u4oGZgtdQZHMV5hudTtkrBPsPSiubguq6DRwhTh2tgLFy98oL870kdCQq$V.#=zfX5ZHq2ohArQ 2026-07-28 16:31:24 at Empty Registration File? --------
+Empty Registration File?
+   at #=znXXTgNan0WTb_yeP1Qvtpb0zxUxUT$930qCcA38FTj94bd4wISDYaqg=.#=zhv7tgEE=(String #=zofLbRUQ=)
+   at #=zVBOzlqxAvLw2qIee0u4oGZgtdQZHMV5hudTtkrBPsPSiubguq6DRwhTh2tgLFy98oL870kdCQq$V.#=zfX5ZHq2ohArQ(Object #=zPpjqqUE=, EventArgs #=zWxqsk3s=)
+
+2026-07-28 16:43:48 [NetManager.StartService]: START SERVICE
+
+-------- #=zqdC2Zq3$fn2bFoXJjEXSuADn8r68OKduhpoqgYuPgz4NIjPZXhWIaJ4JyAkFyAIGNAlGbPqdtVfx.#=z$QonPHg15dhx12kyGKSfbpM= 2026-07-28 16:46:11 at Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index --------
+Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at #=zdIvbMTVK0xGqjQE4PM3IOYLkyMOo3LdVchdQA0$wOntt4zRXYQ==.#=z2M2RkqlSOKdJ()
+   at #=zdIvbMTVK0xGqjQE4PM3IOYLkyMOo3LdVchdQA0$wOntt4zRXYQ==.#=zZo$4sbt1cvo4bbaSZZIqmhM=()
+   at #=zqdC2Zq3$fn2bFoXJjEXSuADn8r68OKduhpoqgYuPgz4NIjPZXhWIaJ4JyAkFyAIGNAlGbPqdtVfx.#=z$QonPHg15dhx12kyGKSfbpM=(Object #=zPpjqqUE=, LinkLabelLinkClickedEventArgs #=zWxqsk3s=)
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.bankdeposit
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.bankmutasidata
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.banksaldo
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.banktrans
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.formatnomortagihan
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.formatpesanpg
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.infobayar
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.pgtransdata
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.pgtrans
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.pgtranslebih
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.tagihancount
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.tagihansetcount
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.tagihansiswadata
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.tagihansiswainfo
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.tagihanset
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsjs.syncdata
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.bankmutasi
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.bank
+
+2026-08-29 10:31:21 [EXEC OK]: DROP TABLE jbsfina.pgtranslog
+
