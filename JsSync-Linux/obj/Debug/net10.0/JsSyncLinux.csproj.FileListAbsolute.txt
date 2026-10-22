@@ -1,39 +1,79 @@
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\appsettings.Development.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\appsettings.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\JsSyncLinux.staticwebassets.runtime.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\JsSyncLinux.staticwebassets.endpoints.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\JsSyncLinux.exe
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\JsSyncLinux.deps.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\JsSyncLinux.runtimeconfig.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\JsSyncLinux.dll
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\JsSyncLinux.pdb
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\MySqlConnector.dll
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\Newtonsoft.Json.dll
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\JsSyncLinux.csproj.AssemblyReference.cache
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\JsSyncLinux.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\JsSyncLinux.AssemblyInfoInputs.cache
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\JsSyncLinux.AssemblyInfo.cs
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\JsSyncLinux.csproj.CoreCompileInputs.cache
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\JsSyncLinux.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\rjimswa.dswa.cache.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\scopedcss\bundle\JsSyncLinux.styles.css
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\compressed\dn5tsnno93-{0}-sgk65y0tge-sgk65y0tge.gz
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\compressed\qpqu8x6a6u-{0}-dqjj44f1l4-dqjj44f1l4.gz
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\compressed\eq33duzolb-{0}-ybpdkwb62l-ybpdkwb62l.gz
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\staticwebassets.build.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\staticwebassets.build.json.cache
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\staticwebassets.development.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\JsSyncLi.2F92C271.Up2Date
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\JsSyncLinux.dll
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\refint\JsSyncLinux.dll
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\JsSyncLinux.pdb
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\JsSyncLinux.genruntimeconfig.cache
-C:\Users\ahmad\Documents\JIBAS SJS\JsSync-Linux\obj\Debug\net10.0\ref\JsSyncLinux.dll
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/appsettings.Development.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/appsettings.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.staticwebassets.runtime.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.staticwebassets.endpoints.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.exe
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.deps.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.runtimeconfig.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.dll
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.pdb
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/MySqlConnector.dll
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/Newtonsoft.Json.dll
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/bin/Debug/net10.0/Newtonsoft.Json.Bson.dll
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.csproj.AssemblyReference.cache
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/rpswa.dswa.cache.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.AssemblyInfoInputs.cache
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.AssemblyInfo.cs
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.csproj.CoreCompileInputs.cache
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/rjimswa.dswa.cache.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/scopedcss/bundle/JsSyncLinux.styles.css
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/compressed/dn5tsnno93-{0}-sgk65y0tge-sgk65y0tge.gz
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/compressed/qpqu8x6a6u-{0}-dqjj44f1l4-dqjj44f1l4.gz
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/compressed/eq33duzolb-{0}-ybpdkwb62l-ybpdkwb62l.gz
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/staticwebassets.build.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/staticwebassets.build.json.cache
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/staticwebassets.development.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/swae.build.ex.cache
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/JsSyncLi.2F92C271.Up2Date
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.dll
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/refint/JsSyncLinux.dll
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.pdb
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.genruntimeconfig.cache
+C:/Users/ahmad/Documents/JIBAS SJS/JsSync-Linux/obj/Debug/net10.0/ref/JsSyncLinux.dll
+/app/JsSync-Linux/bin/Debug/net10.0/appsettings.Development.json
+/app/JsSync-Linux/bin/Debug/net10.0/appsettings.json
+/app/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.staticwebassets.runtime.json
+/app/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.staticwebassets.endpoints.json
+/app/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux
+/app/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.deps.json
+/app/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.runtimeconfig.json
+/app/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.dll
+/app/JsSync-Linux/bin/Debug/net10.0/JsSyncLinux.pdb
+/app/JsSync-Linux/bin/Debug/net10.0/Microsoft.AspNetCore.JsonPatch.dll
+/app/JsSync-Linux/bin/Debug/net10.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/app/JsSync-Linux/bin/Debug/net10.0/MySqlConnector.dll
+/app/JsSync-Linux/bin/Debug/net10.0/Newtonsoft.Json.dll
+/app/JsSync-Linux/bin/Debug/net10.0/Newtonsoft.Json.Bson.dll
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.csproj.AssemblyReference.cache
+/app/JsSync-Linux/obj/Debug/net10.0/rpswa.dswa.cache.json
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.GeneratedMSBuildEditorConfig.editorconfig
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.AssemblyInfoInputs.cache
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.AssemblyInfo.cs
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.csproj.CoreCompileInputs.cache
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.MvcApplicationPartsAssemblyInfo.cache
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.sourcelink.json
+/app/JsSync-Linux/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/app/JsSync-Linux/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/app/JsSync-Linux/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/app/JsSync-Linux/obj/Debug/net10.0/scopedcss/bundle/JsSyncLinux.styles.css
+/app/JsSync-Linux/obj/Debug/net10.0/compressed/dn5tsnno93-{0}-sgk65y0tge-sgk65y0tge.gz
+/app/JsSync-Linux/obj/Debug/net10.0/compressed/qpqu8x6a6u-{0}-dqjj44f1l4-dqjj44f1l4.gz
+/app/JsSync-Linux/obj/Debug/net10.0/compressed/eq33duzolb-{0}-ybpdkwb62l-ybpdkwb62l.gz
+/app/JsSync-Linux/obj/Debug/net10.0/staticwebassets.build.json
+/app/JsSync-Linux/obj/Debug/net10.0/staticwebassets.build.json.cache
+/app/JsSync-Linux/obj/Debug/net10.0/staticwebassets.development.json
+/app/JsSync-Linux/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/app/JsSync-Linux/obj/Debug/net10.0/swae.build.ex.cache
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLi.2F92C271.Up2Date
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.dll
+/app/JsSync-Linux/obj/Debug/net10.0/refint/JsSyncLinux.dll
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.pdb
+/app/JsSync-Linux/obj/Debug/net10.0/JsSyncLinux.genruntimeconfig.cache
+/app/JsSync-Linux/obj/Debug/net10.0/ref/JsSyncLinux.dll
